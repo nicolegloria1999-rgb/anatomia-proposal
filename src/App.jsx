@@ -93,10 +93,8 @@ export default function App() {
           </div>
           <div className="relative group">
             <div className="absolute -inset-4 bg-gradient-to-tr from-blue-100 to-transparent opacity-30 rounded-full blur-2xl group-hover:opacity-50 transition-opacity"></div>
-            <div className="relative bg-white rounded-[3rem] aspect-square flex flex-col items-center justify-center p-12 shadow-sm border border-gray-100 overflow-hidden">
-              <img src="https://uc7c4bdabb34e770343088a35a59.dl.dropboxusercontent.com/cd/0/inline/C_E_6qU7FnMiUFCWKAtw1TieVZMj4g7OVPHTdQ5CAWn_7Y7gu3rr52Zt3QO3hKQJJYf1leH0lgfF9qoAekbN6_PHggpS9P_24wvWBmpnl7A4AvSchInw7KWpesvXUZ5cFlN6I0leoDdq-buS-bDz7_Dl/file" alt="Creative Partner" className="w-32 h-32 rounded-full mb-8 object-cover shadow-xl shadow-blue-500/20" />
-              <span className="text-black font-bold text-3xl tracking-tight">Kolle Studio</span>
-              <span className="text-gray-400 font-medium tracking-widest uppercase text-xs mt-3 text-center">Creative Partner</span>
+            <div className="relative bg-white rounded-[3rem] aspect-square shadow-sm border border-gray-100 overflow-hidden">
+              <img src="https://uc7c4bdabb34e770343088a35a59.dl.dropboxusercontent.com/cd/0/inline/C_E_6qU7FnMiUFCWKAtw1TieVZMj4g7OVPHTdQ5CAWn_7Y7gu3rr52Zt3QO3hKQJJYf1leH0lgfF9qoAekbN6_PHggpS9P_24wvWBmpnl7A4AvSchInw7KWpesvXUZ5cFlN6I0leoDdq-buS-bDz7_Dl/file" alt="Nicole" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
