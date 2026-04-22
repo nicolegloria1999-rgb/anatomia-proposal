@@ -124,10 +124,10 @@ export default function App() {
           <span className="text-sm font-semibold tracking-widest text-gray-800">
             KOLLE<span className="text-blue-600">STUDIO</span>
           </span>
-          <button className="group relative inline-flex items-center gap-2 bg-black text-white px-6 py-2.5 rounded-full text-sm font-medium hover:-translate-y-1 transition-all duration-300 shadow-sm overflow-hidden">
+          <a href="mailto:geral@kollestudio.com?subject=Anatomia%20Proposal%20Approved&body=Hi%20Nicole%2C%0A%0AI%20would%20like%20to%20approve%20the%20Anatomia%20visual%20identity%20proposal.%0A%0ALet's%20get%20started!" className="group relative inline-flex items-center gap-2 bg-black text-white px-6 py-2.5 rounded-full text-sm font-medium hover:-translate-y-1 transition-all duration-300 shadow-sm overflow-hidden no-underline">
             <div className="absolute inset-0 bg-gradient-to-r from-gray-800 to-black opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             <span className="relative z-10">Accept Proposal</span>
-          </button>
+          </a>
         </div>
       </nav>
 
@@ -397,12 +397,12 @@ export default function App() {
 
           <ScrollReveal delay={200}>
             <div className="flex flex-col items-center gap-10">
-              <button className="group relative bg-black text-white rounded-full px-12 py-6 text-2xl font-bold transition-all hover:-translate-y-1 hover:shadow-2xl active:scale-95 overflow-hidden shadow-xl">
+              <a href="mailto:geral@kollestudio.com?subject=Anatomia%20Proposal%20Approved&body=Hi%20Nicole%2C%0A%0AI%20would%20like%20to%20approve%20the%20Anatomia%20visual%20identity%20proposal.%0A%0ALet's%20get%20started!" className="group relative bg-black text-white rounded-full px-12 py-6 text-2xl font-bold transition-all hover:-translate-y-1 hover:shadow-2xl active:scale-95 overflow-hidden shadow-xl no-underline">
                 <div className="absolute inset-0 bg-gradient-to-r from-gray-800 to-black opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                 <span className="relative z-10 flex items-center gap-3 text-white">
                   Approve Proposal <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
                 </span>
-              </button>
+              </a>
               <div className="mt-12 space-y-2 text-center">
                 <p className="text-gray-400 font-medium tracking-widest uppercase text-[10px]">Nicole | Kolle Studio</p>
               </div>
