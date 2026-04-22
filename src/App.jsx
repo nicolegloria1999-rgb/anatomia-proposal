@@ -413,7 +413,7 @@ export default function App() {
 
       {/* ── Footer ── */}
       <footer className="py-12 px-6 bg-white border-t border-gray-50 text-center relative z-10">
-        <p className="text-gray-400 text-[10px] font-bold uppercase tracking-[0.2em]">© 2024 Kolle Studio x Anatomia</p>
+        <p className="text-gray-400 text-[10px] font-bold uppercase tracking-[0.2em]">© 2026 Kolle Studio x Anatomia</p>
       </footer>
     </div>
   );
