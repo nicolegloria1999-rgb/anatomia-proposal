@@ -69,7 +69,7 @@ export default function App() {
       title: 'Brand Discovery', 
       icon: ClipboardList,
       tag: "THE FOUNDATION",
-      desc: 'In this phase you complete a full brand questionnaire. This is the most important step, where you'll share all the details about Anatomia and your preferences.',
+      desc: "In this phase you complete a full brand questionnaire. This is the most important step, where you'll share all the details about Anatomia and your preferences.",
       status: "Discovery"
     },
     { 
@@ -77,7 +77,7 @@ export default function App() {
       title: 'Creative Kickoff', 
       icon: Search,
       tag: "ALIGNMENT",
-      desc: 'Once I review your answers, we'll align on the exact visual direction, vibe, and references to ensure we are on the same page.',
+      desc: "Once I review your answers, we'll align on the exact visual direction, vibe, and references to ensure we are on the same page.",
       status: "Concept"
     },
     { 
